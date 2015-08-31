@@ -1,0 +1,19 @@
+add date to title page (done)
+p 2 rephrase "what's in paper", not so chatty, tis is meant for presentation
+p 4 (and other pages) do check your english sentence, spelling and writing, e.g. p 14 "s(i"
+p 4 add precision, e.g. "but only influenced . . . " (done)
+p 5 what is "known"? clarify (done)
+p 6 what do these number references refer to "(11)"? (done)
+p 6 2nd bullet, check sentence!! (done)
+p 7 "data dependence" clarify why possible in superscalar!! Very critical (done)
+p 8 very good to include (done)
+p p what's the reference to "other processor's". which other? (done)
+p 10, 13 name the asm language! (done)
+p 6 .. p 11 why is branch prediction relevant for superscalar? Explain
+p 16 good you cite "renaming", but add explanation!(done)
+p 20 check your sentences
+p 23 memory hierarchy is orthogonal to superscalar. Why included? Explain clearly.
+
+Lots of work to do still; very good start; this can become a good presentation, if you add care!
+
+-Herb
